@@ -6,11 +6,11 @@
 Skills: ReactJS / JS / Node.js / Express.js / MongoDB / and more
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreydiskin&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreydiskin)](https://github.com/andreydiskin/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreydiskin&show_icons=true)  
 
 
 
-k
+
 
