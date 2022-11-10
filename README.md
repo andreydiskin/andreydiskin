@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Andrey Diskin
 #### I'm a Software Developer
 
-<img src="[https://github.com/andreydiskin/andreydiskin/gif.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="256"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="256"/>
 
 Skills: ReactJS / JS / Node.js / Express.js / MongoDB / and more
   
