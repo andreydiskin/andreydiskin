@@ -7,8 +7,8 @@ Skills: ReactJS / JS / Node.js / Express.js / MongoDB / and more
 <br/>  
 <br/>  
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=andreydi&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreydi&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=andreydiskin&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreydiskin&theme=radical&layout=compact" />
 </div>
 
 
